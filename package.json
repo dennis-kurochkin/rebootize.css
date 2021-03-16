@@ -1,0 +1,24 @@
+{
+  "name": "rebootize.css",
+  "version": "0.1.0",
+  "description": "Modern CSS reset and reboot for all of your needs",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennis-kurochkin/rebootize.css.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "reboot"
+  ],
+  "author": "Dennis Kurochkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennis-kurochkin/rebootize.css/issues"
+  },
+  "homepage": "https://github.com/dennis-kurochkin/rebootize.css#readme"
+}
