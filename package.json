@@ -1,6 +1,6 @@
 {
   "name": "rebootize.css",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Modern CSS reset and reboot for all of your needs",
   "main": "index.css",
   "scripts": {
